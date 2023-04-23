@@ -6,7 +6,7 @@ pinMode(5,INPUT);
 pinMode(6,INPUT);
 pinMode(9,INPUT);
 pinMode(10,INPUT);
-pinMode(11,INPUT)
+pinMode(11,INPUT);
 Serial.begin(9600);
 }
 void loop() 
